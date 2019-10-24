@@ -1,4 +1,4 @@
-Python & data_processing
+Python & data processing
 ========================
 
 Materials for the BFU 24-25 Oct workshop are being uploaded here:
