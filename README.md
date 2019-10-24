@@ -8,7 +8,8 @@ Instructions:
 =============
 1. Download and unzip package.zip
 
-2. Upload necessary files to colab runtime temporary disk:
+2. Upload necessary files to colab runtime temporary disk :
+
    data    :  191022_propaganda_task1_train_truncated_11986.xlsx
    
    binary  :  191023_1150h_LDA_vis_prep_5_topics.pkl
